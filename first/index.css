@@ -1,20 +1,16 @@
-body {
-    margin: 0;
-    background-color: #D8D8D8;
-    width: 100%;
-    height: 100vh;
+body {   
+    background-color: #D8D8D8;    
   }
 .top-part {
-    Height: 150px;
-    width: 100%;    
-    background: darkgray;    
+    Height: 20VH;        
+    background: rgba(8, 7, 7, 0.514);    
 }
 
-.sides{
+.center-part{
     background-color: #EFEFEF;
     margin: 0 auto;
     width: 75%;
-    height: 70vh;
+    height: 75VH;
 }
 .bottom-part {    
     background: rgba(5, 4, 4, 0.616);    
